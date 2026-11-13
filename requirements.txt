@@ -1,0 +1,5 @@
+duckdb>=1.1
+pandas>=1.5
+pytz
+pytest>=7
+# openai>=1.40
